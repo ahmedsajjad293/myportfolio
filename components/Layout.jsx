@@ -22,13 +22,14 @@ const Layout = ({ children }) => {
         <title>Ahmed Sajjad | Portfolio</title>
         <meta
           name="description"
-          content="Ethan Smith is a Full-stack web developer with 10+ years of experience."
+          content=" Hey there! 👋 I'm Ahmed Sajjad, your friendly neighborhood web developer on a mission to craft remarkable digital experiences. With a passion for technology and an eye for design, I specialize in creating sleek, user-friendly websites that not only look fantastic but also function flawlessly.
+          "
         />
         <meta
           name="keywords"
           content="react, next, nextjs, html, css, javascript, js, modern-ui, modern-ux, portfolio, framer-motion, 3d-website, particle-effect"
         />
-        <meta name="author" content="Sanidhya Kumar Verma" />
+        <meta name="author" content="Ahmed Sajjad" />
         <meta name="theme-color" content="#f13024" />
       </Head>
 
